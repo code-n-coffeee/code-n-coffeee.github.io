@@ -1,0 +1,53 @@
+body
+{ background:grey;
+   margin: o px;
+   padding: 0 px;
+}
+
+header
+{ background:black;
+   height:70px;
+   padding:10px;
+}
+
+a
+{ color:white;
+  text-decoration:none;
+	
+}
+
+
+ul li{
+	list-style-type:none;
+}
+
+#left-nav
+{ display:inline-block;
+  float:left;
+  
+}
+
+#right-nav
+{ float:right;
+ 
+}
+
+
+#right-nav li
+{ 
+  display: inline-block;
+  margin:20px;
+}
+#pr
+{  margin-bottom:60px;
+}
+
+
+footer
+{ clear:both;
+  background:black;
+  color: #fff;
+  padding: 10px;
+  text-align:center;
+  margin-top:200px;
+}
